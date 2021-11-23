@@ -1,5 +1,0 @@
-#!C:\Users\Lenovo\Desktop\PROGRAMS\Python\Game\TicTacToe\venv\Scripts\python.exe
-from cx_Freeze.setupwriter import main
-
-main()
-
